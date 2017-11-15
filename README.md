@@ -31,6 +31,7 @@
 |Name                   |GitHub ID         |website for a GitHub repo  | 
 |:----------------------|:-----------------|:--------------------------|  
 | Matt Beckman    | mdbeckman      | <https://mdbeckman.github.io/PSU-Data-Science/>   |  
+| Cuyler Luck     | cuylerluck     | <https://cuylerluck.github.io/STAT184/>           |
 
 
 <br>
